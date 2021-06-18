@@ -1,1 +1,1 @@
-# activitywatch-elasticsearch
+# AWES a.k.a ActivityWatch-Elasticsearch
